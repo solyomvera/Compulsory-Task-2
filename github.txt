@@ -1,0 +1,6 @@
+Compulsory Task 2
+In this task, you will be creating a free GitHub account.
+Follow these steps:
+● Create a free GitHub account by visiting https://github.com/join.
+● After you have created your account, submit a file named github.txt with a
+URL to your GitHub profile.
